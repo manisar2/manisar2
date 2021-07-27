@@ -12,6 +12,10 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
 
 I'm currently into Python and machine learning.
 
+#### My Code Snipptes and Projects on Github
+ * Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python<br>
+   Explained [here](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/). [Code](https://github.com/manisar2/manisar2/blob/main/ipy_code_cell_markdown/ipy_md.py), [notebook and example](https://github.com/manisar2/manisar2/blob/main/ipy_code_cell_markdown/ipy_md.ipynb).
+
 <!--
 **manisar2/manisar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
