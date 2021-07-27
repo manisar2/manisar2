@@ -1,5 +1,5 @@
 ### Hi
-I'm manisar (manisar2 on Github).<br>
+I'm manisar ([manisar2](https://github.com/manisar2/manisar2) on Github).<br>
 A coder by profession and hobby, I also find immense interest in physics and calculus.
 
 You can find me on the following platforms sharings bits and pieces of knowledge.<br>
