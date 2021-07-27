@@ -18,7 +18,8 @@ def display_string(self, type=DisplayType.MARKDOWN):
     if 'ipykernel' in sys.modules: display(type.value(self))
 curse(str, "md", display_string)
 
-# %% # example
+# Example
+# %% 
 if __name__ == "__main__": # so that this doesn't run when called from other modules
     import numpy as np
     r = 5
@@ -33,5 +34,3 @@ Read on...""".md()
     "<h2>Volume of a cone is given by:</h2>".md(DisplayType.HTML)
     "V = {1 \over 3} \pi r^2 h".md(DisplayType.MATH)
     f"New array = \n{np.array_str(np.array([[1, 2],[3, 4]]))}".md(DisplayType.PRETTY)
-
-
