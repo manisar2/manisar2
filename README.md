@@ -13,14 +13,13 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
 I'm currently into Python and machine learning.
 
 
-## Some of My Code Snipptes, Tools. Reference Guides and Musings
+## Some of My Code Snipptes, Tools, Reference Guides and Musings
 
 <br>
 
 ## Online Tools
 
----
- * <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><br>
+ * <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> --><br>
    Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>
    In the tool given on [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).
    The computer plays against itself 100,000 times and shows the number of wins as per different strategies.
@@ -29,11 +28,11 @@ I'm currently into Python and machine learning.
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
    It can also be used for converting any subtitles, that you already have, from VTT format to text or SRT format.
 
- * <font size="4rem">[Knight's Tour on A Chessboard](https://randompearls.com/reference/tools/knight-solution/)</font><br>
+ * <font size="4rem">[Knight's Tour on A Chessboard](https://randompearls.com/reference/tools/knight-solution/)</font><!-- <img src="images/Knights_Tour_Solved.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> --><br>
    It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>
    Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.
 
- * <font size="4rem">[Online Sudoku Solver](https://randompearls.com/reference/tools/sudoku-solver/)</font><br>
+ * <font size="4rem">[Online Sudoku Solver](https://randompearls.com/reference/tools/sudoku-solver/)</font><!-- <img src="images/Solved_Sudoku.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> --><br>
    This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>
    With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.
 
@@ -43,8 +42,9 @@ I'm currently into Python and machine learning.
 <br>
 
 ## Tools and Snippets
----
- * <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><br>
+
+ * <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> --><br>
+   Display markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
    [Code](https://github.com/manisar2/manisar2/tree/main/ipy_code_cell_markdown), [notebook and example](https://github.com/manisar2/manisar2/blob/main/ipy_code_cell_markdown/ipy_md.ipynb).
 
  * <font size="4rem">[Save Windows Screenshot as jpg File using a Shortcut Key](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/save-windows-screenshot-jpg-file-one-step-shortcut-script/)</font><br>
@@ -54,24 +54,27 @@ I'm currently into Python and machine learning.
 <br>
 
 ## Reference Guides
----
+
  * <font size="4rem">[How to Make Private Updateable Clone (of third party repos) in Git](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/how-make-private-updateable-clone-git/)</font><br>
    Create private equivalent of a fork of a public repo on github.<br>
 
  * <font size="4rem">[What's up with VS Code, WSL, Docker and Dev-containers?](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/vscode-docker-wsl-and-dev-containers/)</font><br>
    Code, develop, build, test and showcase like a Pro.<br>
 
+ * <font size="4rem">[Audio Setup with and without External Dock](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/audio-setup-external-dock/)</font><br>
+   Setup audio both with and without an external dock.<br>Force detection of audio devices including speakers and microphones.<br>
+
 <br>
 
 ## IT and Mathematics - Concepts and Explanations
----
+
  * <font size="4rem">[The Monty Hall Paradox Probability Equations](https://randompearls.com/science-and-technology/mathematics/monty-hall-paradox-probability-equations/)</font><br>
    While in [Monty Hall Paradox Test Tool]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) I focused on explaining the working of this paradox through its results, [here](https://randompearls.com/science-and-technology/mathematics/monty-hall-paradox-probability-equations/) I have derived the equations for the generalized case (for any number of total, opened and winning doors).<br>
    Nice to see how the results match the equations.
 
  * <font size="4rem">[Neural Networks - What's Happening? An Intuitive Introduction to Machine Learning](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/)</font><br>
-   Trying to explain how machine learning is a natural progression of conventional regression using the rapidly advancing processing power, and some of the neat small mathematical tricks we had or discovered in the latter half of the last century.<br>
-   This while also shaping up the constructing ideas behind it from the ground-up - for the semi-initiated.
+   Trying to explain how machine learning is a natural progression of conventional regression using the rapidly advancing processing power, and some of the neat small mathematical tricks we had or discovered in the last century.<br>
+   This, while also shaping up the constructing ideas behind it from the ground-up - for the semi-initiated.
 
  * <font size="4rem">[Information Theory - Rationale Behind Using Logarithm for Entropy, and Other Explanations](https://randompearls.com/science-and-technology/mathematics/information-theory-rationale-behind-using-logarithm-entropy-and-other-explanations/)</font><br>
    If you work in, or have interest in Information Technology or Mathematics, then Information Theory is something you must be acquainted with.<br>
@@ -92,7 +95,7 @@ I'm currently into Python and machine learning.
 <br>
 
 ## Physics - Intuition Based
----
+
  * <font size="4rem">[How Do Objects Fly?](https://randompearls.com/science-and-technology/physics/how-do-objects-fly/)</font><br>
    With a Thrust-to-Weight Ratio of Less Than 1!
 
@@ -109,9 +112,12 @@ I'm currently into Python and machine learning.
 <br>
 
 ## Fiction
----
+
  * <font size="4rem">[A True Story Yet To Happen](https://randompearls.com/fiction-and-poetry/fiction/true-story-yet-to-happen/)</font><br>
    See if you can make any sense of it. I couldn't since the time I wrote it.<br>It did make some sense before I conceived it though!
+
+ * <font size="4rem">[Stories for Vedantins](https://randompearls.com/vedanta/stories/?langp=en)</font><br>
+   Some short motivational stories, retold.
 
 <!--
 **manisar2/manisar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
