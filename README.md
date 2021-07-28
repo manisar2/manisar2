@@ -19,7 +19,7 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
  * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>
-   In the tool given on [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).
+   In the tool given [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).
    The computer plays against itself 100,000 times and shows the number of wins as per different strategies.
 
  * ### <font size="4rem">[Extract Subtitles from YouTube in Plain Text, SRT or VTT Formats](https://randompearls.com/reference/tools/extract-subtitles-youtube-and-convert-plain-text/)</font>
