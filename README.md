@@ -13,9 +13,7 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
 
 I'm currently into Python and machine learning.
 
-
 Find below some of my code snipptes, tools, reference guides and musings.
-
 
 ## Online Tools
 
@@ -87,8 +85,8 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
  * ### <font size="4rem">[Information Theory - Rationale Behind Using Logarithm for Entropy, and Other Explanations](https://randompearls.com/science-and-technology/mathematics/information-theory-rationale-behind-using-logarithm-entropy-and-other-explanations/)</font>
    If you work in, or have interest in Information Technology or Mathematics, then Information Theory is something you must be acquainted with.<br>
-   If you haven't heard of it, check the section Information Theory - Quick Introduction↕ on this page.<br>
-   What I have provided on this is an intuitive build-up which is generally not present in most explanations of the Information Theory - including the one that came from its founder.
+   If you haven't heard of it, check the section Information Theory - Quick Introduction on the linked page.<br>
+   What I have provided on this page is an intuitive build-up which is generally not present in most explanations of the Information Theory - including the one that came from its founder.
 
  * ### <font size="4rem">[An Intuitive Look at Euler's Formula (and All the Numbers!)](https://randompearls.com/science-and-technology/mathematics/intuitive-look-at-eulers-formula-and-all-numbers/)</font><br>
    If enlightenment came in pieces, I bet the realization which I had and which I've provided on this page, would be one of those!
