@@ -13,18 +13,17 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
 I'm currently into Python and machine learning.
 
 
-## Some of My Code Snipptes, Tools, Reference Guides and Musings
+Find below some of my code snipptes, tools, reference guides and musings
 
-<br>
 
 ## Online Tools
 
- * <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> --><br>
+ * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>
    In the tool given on [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).
    The computer plays against itself 100,000 times and shows the number of wins as per different strategies.
 
- * <font size="4rem">[Extract Subtitles from YouTube in Plain Text, SRT or VTT Formats](https://randompearls.com/reference/tools/extract-subtitles-youtube-and-convert-plain-text/)</font><br>
+ * ### <font size="4rem">[Extract Subtitles from YouTube in Plain Text, SRT or VTT Formats](https://randompearls.com/reference/tools/extract-subtitles-youtube-and-convert-plain-text/)</font><br>
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
    It can also be used for converting any subtitles, that you already have, from VTT format to text or SRT format.
 
@@ -73,7 +72,7 @@ I'm currently into Python and machine learning.
    Nice to see how the results match the equations.
 
  * <font size="4rem">[Neural Networks - What's Happening? An Intuitive Introduction to Machine Learning](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/)</font><br>
-   Trying to explain how machine learning is a natural progression of conventional regression using the rapidly advancing processing power, and some of the neat small mathematical tricks we had or discovered in the last century.<br>
+   Multiple chapters.<br>Trying to explain how machine learning is a natural progression of conventional regression using the rapidly advancing processing power, and some of the neat small mathematical tricks we had or discovered in the last century.<br>
    This, while also shaping up the constructing ideas behind it from the ground-up - for the semi-initiated.
 
  * <font size="4rem">[Information Theory - Rationale Behind Using Logarithm for Entropy, and Other Explanations](https://randompearls.com/science-and-technology/mathematics/information-theory-rationale-behind-using-logarithm-entropy-and-other-explanations/)</font><br>
