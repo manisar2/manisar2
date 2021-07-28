@@ -9,12 +9,12 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
  2. [github](https://github.com/manisar2/manisar2)
  3. [physics.stackexchange.com](https://physics.stackexchange.com/users/306389/manisar) and other stackexchange sites such as [stackoverflow](https://stackoverflow.com/users/8582902/manisar)
  5. [quora](https://www.quora.com/profile/Manisar)
- 6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA), through [randompearls.com](https://randompearls.com/search/author/2/)
+ 6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA) (through [randompearls.com](https://randompearls.com/search/author/2/))
 
 I'm currently into Python and machine learning.
 
 
-Find below some of my code snipptes, tools, reference guides and musings
+Find below some of my code snipptes, tools, reference guides and musings.
 
 
 ## Online Tools
