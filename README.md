@@ -9,6 +9,7 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
  2. [github](https://github.com/manisar2/manisar2)
  3. [physics.stackexchange.com](https://physics.stackexchange.com/users/306389/manisar) and other stackexchange sites such as [stackoverflow](https://stackoverflow.com/users/8582902/manisar)
  5. [quora](https://www.quora.com/profile/Manisar)
+ 6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA), through [randompearls.com](https://randompearls.com/search/author/2/)
 
 I'm currently into Python and machine learning.
 
@@ -49,6 +50,15 @@ Find below some of my code snipptes, tools, reference guides and musings
  * ### <font size="4rem">[Save Windows Screenshot as jpg File using a Shortcut Key](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/save-windows-screenshot-jpg-file-one-step-shortcut-script/)</font>
    Save image from clipboard to a jpg file without needing an image processing program.<br>
    [Code](https://github.com/manisar2/manisar2/tree/main/save_windows_screenshot).
+
+<br>
+
+## Mathematical Animation
+   Blender, manim, desmos, dot and Voicemeeter are the tools I've primarily used for animation.
+
+ * ### <font size="4rem">[Recurrent Neural Network - Basic Plumbing](https://www.youtube.com/watch?v=ngayHkzoguA&t=1s)</font>
+   
+ * ### <font size="4rem">[Numpy Array - Sum, Axes and Dimensions](https://www.youtube.com/watch?v=XC_j0cr_a8U)</font>
 
 <br>
 
