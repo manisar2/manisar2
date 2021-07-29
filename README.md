@@ -41,7 +41,7 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
 ## Tools and Snippets
 
- * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
+ * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Python Interactive](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
    A github package for displaying markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
    [Code and Installation](https://github.com/manisar2/ipy_ccmd/), [notebook and .py examples](https://github.com/manisar2/ipy_ccmd/tree/main/example).
 
