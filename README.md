@@ -42,8 +42,8 @@ Find below some of my code snipptes, tools, reference guides and musings.
 ## Tools and Snippets
 
  * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
-   Display markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
-   [Code and Installation](https://github.com/manisar2/ipy_ccmd/), [notebook and .py example](https://github.com/manisar2/ipy_ccmd/tree/main/example).
+   A github package for displaying markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
+   [Code and Installation](https://github.com/manisar2/ipy_ccmd/), [notebook and .py examples](https://github.com/manisar2/ipy_ccmd/tree/main/example).
 
  * ### <font size="4rem">[Save Windows Screenshot as jpg File using a Shortcut Key](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/save-windows-screenshot-jpg-file-one-step-shortcut-script/)</font>
    Save image from clipboard to a jpg file without needing an image processing program.<br>
