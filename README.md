@@ -43,7 +43,7 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
  * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Interactive Python](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
    Display markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
-   [Code](https://github.com/manisar2/manisar2/tree/main/ipy_code_cell_markdown), [notebook and example](https://github.com/manisar2/manisar2/blob/main/ipy_code_cell_markdown/ipy_md.ipynb).
+   [Code and Installation](https://github.com/manisar2/ipy_ccmd/), [notebook and .py example](https://github.com/manisar2/ipy_ccmd/tree/main/example).
 
  * ### <font size="4rem">[Save Windows Screenshot as jpg File using a Shortcut Key](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/save-windows-screenshot-jpg-file-one-step-shortcut-script/)</font>
    Save image from clipboard to a jpg file without needing an image processing program.<br>
@@ -51,12 +51,14 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
 <br>
 
-## Mathematical Animation
+## Mathematical Animations
    Blender, manim, desmos, dot and Voicemeeter are the tools I've primarily used for animation.
 
  * ### <font size="4rem">[Recurrent Neural Network - Basic Plumbing](https://www.youtube.com/watch?v=ngayHkzoguA&t=1s)</font>
    
  * ### <font size="4rem">[Numpy Array - Sum, Axes and Dimensions](https://www.youtube.com/watch?v=XC_j0cr_a8U)</font>
+ 
+ * ### <font size="4rem">[Standard Deviation Significance](https://youtu.be/5ubOz9CPvQw)</font>
 
 <br>
 
@@ -124,7 +126,7 @@ Find below some of my code snipptes, tools, reference guides and musings.
    See if you can make any sense of it. I couldn't since the time I wrote it.<br>It did make some sense before I conceived it though!
 
  * ### <font size="4rem">[Stories for Vedantins](https://randompearls.com/vedanta/stories/?langp=en)</font>
-   Some short motivational stories, retold.
+   A few short motivational stories, retold.
 
 <!--
 **manisar2/manisar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
