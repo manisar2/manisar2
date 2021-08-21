@@ -19,7 +19,7 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
  * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
-   <tr><td>Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>In the tool given [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).<br>The computer plays against itself 100,000 times and shows the number of wins as per different strategies.</td><td><img style="max-height:100px;" src="images/Monty_Hall_Pic.png"/></td></tr></table>
+   <tr><td>Though generally described for 3 doors, the more generalized version as explained in <a href="https://randompearls.com/reference/tools/monty-hall-paradox-tool/">this page</a> can help us understand why it works.<br>In the tool given <a href="https://randompearls.com/reference/tools/monty-hall-paradox-tool/">here</a>, we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).<br>The computer plays against itself 100,000 times and shows the number of wins as per different strategies.</td><td><img src="images/Monty_Hall_Pic.png"/></td></tr></table>
 
  * ### <font size="4rem">[Extract Subtitles from YouTube in Plain Text, SRT or VTT Formats](https://randompearls.com/reference/tools/extract-subtitles-youtube-and-convert-plain-text/)</font>
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
@@ -27,11 +27,11 @@ Find below some of my code snipptes, tools, reference guides and musings.
 
  * ### <font size="4rem">[Knight's Tour on A Chessboard](https://randompearls.com/reference/tools/knight-solution/)</font><!-- <img src="images/Knights_Tour_Solved.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
-   <tr><td>It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.</td><td><img style="max-height:100px;" src="images/Knights_Tour_Solved.jpg"></td></tr></table>
+   <tr><td>It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.</td><td><img width="100px" src="images/Knights_Tour_Solved.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Online Sudoku Solver](https://randompearls.com/reference/tools/sudoku-solver/)</font><!-- <img src="images/Solved_Sudoku.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
-   <tr><td>This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.</td><td><img style="max-height:100px;" src="images/Solved_Sudoku.jpg"></td></tr></table>
+   <tr><td>This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.</td><td><img width="100px" src="images/Solved_Sudoku.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Scrape Stock Quotes](https://randompearls.com/reference/tools/stock-quotes/)</font>
    This is a demo tool that shows how web-scraping can be used to get stock quotes in interesting ways, and in bulk, e.g. from Google Finance.
@@ -41,8 +41,9 @@ Find below some of my code snipptes, tools, reference guides and musings.
 ## Tools and Snippets
 
  * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Python Interactive](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
-   A github package for displaying markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
-   [Code and Installation](https://github.com/manisar2/ipy_ccmd/), [notebook and .py examples](https://github.com/manisar2/ipy_ccmd/tree/main/example).
+   <table width="100%">
+   <tr><td>A github package for displaying markdown from within code cells in IPython output, while ignoring it when run in normal Python (like usual comments).<br>
+   <a href="https://github.com/manisar2/ipy_ccmd/">Code and Installation</a>, <a href="https://github.com/manisar2/ipy_ccmd/tree/main/example">notebook and .py examples</a></td><td><img height="50px" src="images/Jupyter_Cell_With_Markdown_Comment.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Save Windows Screenshot as jpg File using a Shortcut Key](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/save-windows-screenshot-jpg-file-one-step-shortcut-script/)</font>
    Save image from clipboard to a jpg file without needing an image processing program.<br>
