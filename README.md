@@ -49,6 +49,12 @@ Find below some of my code snipptes, tools, reference guides and musings.
    Save image from clipboard to a jpg file without needing an image processing program.<br>
    [Code](https://github.com/manisar2/manisar2/tree/main/save_windows_screenshot).
 
+ * ### <font size="4rem">[Snipperts Useful in Machine Learning Programming](https://github.com/manisar2/MLSnippets)</font>
+   <table border="1">
+    <tr><td><a href="https://github.com/manisar2/MLSnippets/tree/main/plot_and_print">print_metrics</a></td><td>Print <span style='color:green;'>color</span>-<span style='color:tomato;'>coded</span> TensorFlow metrics in IPython 
+    for Training, Validation and Test data or datasets in <span style='border: 1px solid; padding: 1px 3px;'>tabular format</span>, 
+    comparing those with the another metrics (such as previous history), if any.</td><td><img src="https://raw.githubusercontent.com/manisar2/MLSnippets/main/plot_and_print/media/MetricsTableCompared.jpg"/></td></tr>
+   </table>
 <br>
 
 ## Mathematical Animations
