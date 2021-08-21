@@ -18,21 +18,20 @@ Find below some of my code snipptes, tools, reference guides and musings.
 ## Online Tools
 
  * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
-   Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>
-   In the tool given [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).
-   The computer plays against itself 100,000 times and shows the number of wins as per different strategies.
+   <table width="100%">
+   <tr><td>Though generally described for 3 doors, the more generalized version as explained in [this page]((https://randompearls.com/reference/tools/monty-hall-paradox-tool/)) can help us understand why it works.<br>In the tool given [here](https://randompearls.com/reference/tools/monty-hall-paradox-tool/), we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).<br>The computer plays against itself 100,000 times and shows the number of wins as per different strategies.</td><td><img style="max-height:100px;" src="images/Monty_Hall_Pic.png"/></td></tr></table>
 
  * ### <font size="4rem">[Extract Subtitles from YouTube in Plain Text, SRT or VTT Formats](https://randompearls.com/reference/tools/extract-subtitles-youtube-and-convert-plain-text/)</font>
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
    It can also be used for converting any subtitles, that you already have, from VTT format to text or SRT format.
 
  * ### <font size="4rem">[Knight's Tour on A Chessboard](https://randompearls.com/reference/tools/knight-solution/)</font><!-- <img src="images/Knights_Tour_Solved.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
-   It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>
-   Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.
+   <table width="100%">
+   <tr><td>It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.</td><td><img style="max-height:100px;" src="images/Knights_Tour_Solved.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Online Sudoku Solver](https://randompearls.com/reference/tools/sudoku-solver/)</font><!-- <img src="images/Solved_Sudoku.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
-   This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>
-   With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.
+   <table width="100%">
+   <tr><td>This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.</td><td><img style="max-height:100px;" src="images/Solved_Sudoku.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Scrape Stock Quotes](https://randompearls.com/reference/tools/stock-quotes/)</font>
    This is a demo tool that shows how web-scraping can be used to get stock quotes in interesting ways, and in bulk, e.g. from Google Finance.
