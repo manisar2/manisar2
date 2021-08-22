@@ -34,16 +34,12 @@ Find below some of my code snipptes, tools, reference guides and musings.
    <tr><td>This page can also be used as service that solves a 9x9 Sudoku. The service is written in Python.<br>With the solved Sudoku, the service also returns some other statistics such as the counts of recursive and non-recursive calls etc.</td><td><img width="100px" src="images/Solved_Sudoku.jpg"></td></tr></table>
 
  * ### <font size="4rem">[Scrape Stock Quotes](https://randompearls.com/reference/tools/stock-quotes/)</font>
-   This is a demo tool that shows how web-scraping can be used to get stock quotes in interesting ways, and in bulk, e.g. from Google Finance.
+   This is a demo tool that shows how web-scraping can be used to get stock quotes in interesting ways, and in bulk, e.g. from Google Finance.<br>
+   Note - currently broken, I'll fix and update.
 
 <br>
 
 ## Tools and Snippets
-
- * ### <font size="4rem">[Desktop Seach Utility (proprietary)](https://randompearls.com/private-files/Manis_FileSearch_Utility_-_Beta.exe)</font>
-   It's a combination of file explorer and file-search utility.<br>
-   For integration into Windows context menu, run it first time *as administrator*.<br>
-   It has some cool features still absent from Windows explorer search, such as multi-directory search, using max depth and file size, hot-search, showing tree-view in the results, exporting to Excel or html etc.
 
  * ### <font size="4rem">[Show Markdown from within Code Cells in Jupyter and VS Code's Python Interactive](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/show-markdown-within-code-cells-jupyter-and-vs-code-interactive-python/)</font><!-- <img src="images/Jupyter_Cell_With_Markdown_Comment.jpg" style="float:right; max-height:125px; margin-left:5px; border-radius:3px;" /><br> -->
    <table width="100%">
@@ -60,6 +56,11 @@ Find below some of my code snipptes, tools, reference guides and musings.
     for Training, Validation and Test data or datasets in <span style='border: 1px solid; padding: 1px 3px;'>tabular format</span>, 
     comparing those with the another metrics (such as previous history), if any.</td><td><img src="https://raw.githubusercontent.com/manisar2/MLSnippets/main/plot_and_print/media/MetricsTableCompared.jpg"/></td></tr>
    </table>
+
+ * ### <font size="4rem">[Desktop Seach Utility (proprietary)](https://randompearls.com/private-files/Manis_FileSearch_Utility_-_Beta.exe)</font>
+   It's a combination of file explorer and file-search utility.<br>
+   For integration into Windows context menu, run it first time *as administrator*.<br>
+   It has some cool features still absent from Windows explorer search, such as multi-directory search, using max depth and file size, hot-search, showing tree-view in the results, exporting to Excel or html etc.   
 <br>
 
 ## Mathematical Animations
