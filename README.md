@@ -1,6 +1,6 @@
 ## Hi
 I'm manisar ([manisar2](https://github.com/manisar2/manisar2) on Github).<br>
-A coder by hobby, I also find immense interest in physics and calculus.
+While coding is both my hobby and occupation, I also find immense interest in physics and calculus.
 
 You can find me on the following platforms sharings bits and pieces of knowledge.<br>
 Among these, [randompearls.com](https://randompearls.com/search/author/2/) is where I've contributed the most because of its great flexibility and control over presentation.
@@ -13,7 +13,7 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/) is wh
 
 I'm currently into Python and machine learning.
 
-Find below some of my code snipptes, tools, reference guides and musings.
+Find below some of the code snippets, tools, reference guides and musings authored by me.
 
 ## Online Tools
 
