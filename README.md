@@ -17,6 +17,11 @@ Find below some of the code snippets, tools, reference guides and musings author
 
 ## Online Tools
 
+ * ### <font size="4rem">[MNIST - Draw and Test Prediction](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/ch-11-neural-networks-whats-happening-intuitive-introduction-machine-learning/#header)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
+   <table width="100%">
+   <tr><td>MNIST-digit-prediction is considered to be the Hello World of machine learning programming.<br>
+   Here, I've used a pre-trained model served by TensorFlow Serving to predict digits from 0 to 9 that you may draw on the canvas. Front-end code was built upon the example provided by <a src="https://github.com/rhammell">Bob Hammell</a>.</td><td><img src="images/MNISTDraw.jpg"/></td></tr></table>
+
  * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
    <tr><td>Though generally described for 3 doors, the more generalized version as explained in <a href="https://randompearls.com/reference/tools/monty-hall-paradox-tool/">this page</a> can help us understand why it works.<br>In the tool given <a href="https://randompearls.com/reference/tools/monty-hall-paradox-tool/">here</a>, we can modify the total number of doors (n), the doors selected by the host (y), then the doors opened from those selected doors (x), and the total number of winning doors (t).<br>The computer plays against itself 100,000 times and shows the number of wins as per different strategies.</td><td><img src="images/Monty_Hall_Pic.png"/></td></tr></table>
