@@ -3,13 +3,13 @@ I'm manisar ([manisar2](https://github.com/manisar2/manisar2) on Github).<br>
 While coding is both my hobby and occupation, I also find immense interest in physics and calculus.
 
 You can find me on the following platforms sharings bits and pieces of knowledge.<br>
-Among these, [randompearls.com](https://randompearls.com/search/author/2/) is where I've contributed the most because of its great flexibility and control over presentation.
+Among these, [randompearls.com](https://randompearls.com/search/author/2/?s=gm) is where I've contributed the most because of its great flexibility and control over presentation.
 
- 1. [randompearls.com](https://randompearls.com/search/author/2/)
+ 1. [randompearls.com](https://randompearls.com/search/author/2/?s=gm)
  2. [github](https://github.com/manisar2/manisar2)
  3. [physics.stackexchange.com](https://physics.stackexchange.com/users/306389/manisar) and other stackexchange sites such as [stackoverflow](https://stackoverflow.com/users/8582902/manisar)
  5. [quora](https://www.quora.com/profile/Manisar)
- 6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA) (through [randompearls.com](https://randompearls.com/search/author/2/))
+ 6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA) (through [randompearls.com](https://randompearls.com/search/author/2/?s=gm))
 
 I'm currently into Python and machine learning.
 
