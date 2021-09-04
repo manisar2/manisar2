@@ -30,6 +30,10 @@ Find below some of the code snippets, tools, reference guides and musings author
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
    It can also be used for converting any subtitles, that you already have, from VTT format to text or SRT format.
 
+ * ### <font size="4rem">[Gambler's Fallacy - Let's Confirm!](https://randompearls.com/science-and-technology/mathematics/gamblers-fallacy-lets-confirm/)</font>
+   <table width="100%">
+   <tr><td>Let the computer play thousands of times betting on different strategies to see if it's really a fallacy.<br>...it's the tendency to think that a tails is highly likely to show up in a coin toss if the last 5 (e.g.) tosses all resulted in heads.This is a fallacy because this is simply not true!</td><td><img width="200px" src="images/GamblersFallacy.jpg"></td></tr></table>
+
  * ### <font size="4rem">[Knight's Tour on A Chessboard](https://randompearls.com/reference/tools/knight-solution/)</font><!-- <img src="images/Knights_Tour_Solved.jpg" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
    <tr><td>It's possible for a knight on a chessboard to traverse the complete board visiting every position once and only once.<br>Here I'm using backtracking to find such a tour starting with any position. Press '1' in any cell in the grid below and hit Submit.</td><td><img width="100px" src="images/Knights_Tour_Solved.jpg"></td></tr></table>
