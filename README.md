@@ -17,6 +17,11 @@ Find below some of the code snippets, tools, reference guides and musings author
 
 ## Online Tools
 
+ * ### <font size="4rem">[LSTM or Long-Short Term Memory - Learn by Interacting)](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/types-neural-networks/ch-42-neural-networks-whats-happening-intuitive-introduction-machine-learning/#observe-lstm)</font>
+   <table width="100%">
+   <tr><td>Learn about LSTMs, and see why they work the way they do by <strong>interacting</strong> with one!<br> It's astonishing to see that by using a very <strong>simple mechanism</strong>, we can somewhat generate the pattern long and short term memory are supposed to follow.</td><td><img src="images/LSTM Interactive Graph.jpg"/></td></tr></table>
+
+
  * ### <font size="4rem">[MNIST - Draw and Test Prediction](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/ch-11-neural-networks-whats-happening-intuitive-introduction-machine-learning/#header)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
    <tr><td>MNIST-digit-prediction is considered to be the Hello World of machine learning programming.<br>
