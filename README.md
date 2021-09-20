@@ -9,6 +9,7 @@ Among these, [randompearls.com](https://randompearls.com/search/author/2/?s=gm) 
  2. [github](https://github.com/manisar2/manisar2)
  3. [physics.stackexchange.com](https://physics.stackexchange.com/users/306389/manisar) and other stackexchange sites such as [stackoverflow](https://stackoverflow.com/users/8582902/manisar)
  5. [quora](https://www.quora.com/profile/Manisar)
+ 6. [medium](https://randompearls.medium.com/) (through [randompearls.com](https://randompearls.com/search/author/2/?s=gm))
  6. [Youtube](https://www.youtube.com/channel/UCkNk8sEOPQKfYxYOdWcI3uA) (through [randompearls.com](https://randompearls.com/search/author/2/?s=gm))
 
 I'm currently into Python and machine learning.
@@ -25,7 +26,7 @@ Find below some of the code snippets, tools, reference guides and musings author
  * ### <font size="4rem">[MNIST - Draw and Test Prediction](https://randompearls.com/science-and-technology/information-technology/neural-networks-whats-happening-intuitive-intro-to-machine-learning/ch-11-neural-networks-whats-happening-intuitive-introduction-machine-learning/#header)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
    <tr><td>MNIST-digit-prediction is considered to be the Hello World of machine learning programming.<br>
-   Here, I've used a pre-trained model served by TensorFlow Serving to predict digits from 0 to 9 that you may draw on the canvas. Front-end code was built upon the example provided by <a href="https://github.com/rhammell">Bob Hammell</a>.</td><td><img src="images/MNISTDraw.jpg"/></td></tr></table>
+   Here, I've used a pre-trained model served by <strong>TensorFlow Serving</strong> to predict digits from 0 to 9 that you may draw on the canvas. Front-end code was built upon the example provided by <a href="https://github.com/rhammell">Bob Hammell</a>.</td><td><img src="images/MNISTDraw.jpg"/></td></tr></table>
 
  * ### <font size="4rem">[Monty Hall Paradox Test Tool](https://randompearls.com/reference/tools/monty-hall-paradox-tool/)</font><!-- <img src="images/Monty_Hall_Pic.png" style="float:right; max-height:125px; margin-left:5px;" /><br> -->
    <table width="100%">
@@ -35,7 +36,7 @@ Find below some of the code snippets, tools, reference guides and musings author
    Use this tool for downloading captions or subtitles from YouTube in plain text or in VTT or SRT formats, in the language of your choice.<br>
    It can also be used for converting any subtitles, that you already have, from VTT format to text or SRT format.
 
- * ### <font size="4rem">[Gambler's Fallacy - Let's Confirm!](https://randompearls.com/science-and-technology/mathematics/gamblers-fallacy-lets-confirm/)</font>
+ * ### <font size="4rem">[Gambler's Fallacy - Let's Confirm by Playing!](https://randompearls.com/science-and-technology/mathematics/gamblers-fallacy-lets-confirm/)</font>
    <table width="100%">
    <tr><td>Let the computer play thousands of times betting on different strategies to see if it's really a fallacy.<br>...it's the tendency to think that a tails is highly likely to show up in a coin toss if the last 5 (e.g.) tosses all resulted in heads.This is a fallacy because this is simply not true!</td><td><img width="200px" src="images/GamblersFallacy.jpg"></td></tr></table>
 
