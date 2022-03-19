@@ -97,6 +97,10 @@ Find below some of the code snippets, tools, reference guides and musings author
  * ### <font size="4rem">[What's up with VS Code, WSL, Docker and Dev-containers?](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/vscode-docker-wsl-and-dev-containers/)</font>
    Code, develop, build, test and showcase like a Pro.<br>
 
+ * ### <font size="4rem">[2FA and Authenticator Apps - The Issues and the Way Out!](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/2fa-and-authenticator-apps-issues-and-way-out/)</font>
+   A truly portable and secure solution for managing your 2FA accounts!  
+   No need to worry about losing your laptop, phone or changing from Android to iOS or vice versa.<br>
+
  * ### <font size="4rem">[Audio Setup with and without External Dock](https://randompearls.com/science-and-technology/information-technology/coding-and-development-reference-and-tools/audio-setup-external-dock/)</font>
    Setup audio both with and without an external dock.<br>Force detection of audio devices including speakers and microphones.<br>
 
@@ -144,6 +148,13 @@ Find below some of the code snippets, tools, reference guides and musings author
  * ### <font size="4rem">[The Relativity of Physics and The Physics of Relativity](https://randompearls.com/science-and-technology/physics/relativity-physics-physics-relativity/)</font>
    A humble attempt at explaining the relativity of physics and the physics of relativity, with special treatment to vector analysis.<br>
    Some knowledge of calculus is required.
+
+<br>
+
+## Linguistics
+
+ * ### <font size="4rem">[What's with Visarga and Anusvara? How are they different from ह and म/न?](https://randompearls.com/vedanta/logistics-and-linguistics/whats-with-visarga-and-anusvara-how-are-they-different-from-h-and-m-n/)</font>
+   Visarga ( ः), ह and ह् are indeed disparate in Sanskrit, and so are anusvara ( ं - ṃ), न, न्, म and म्.
 
 <br>
 
